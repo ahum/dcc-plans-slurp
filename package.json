@@ -1,0 +1,25 @@
+{
+  "name": "dcc-plans-slurp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "minimist": "^1.2.0",
+    "jsdom": "^15.2.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^12.2.4",
+    "@types/node": "^12.12.17",
+    "@types/node-fetch": "^2.5.4",
+    "@types/minimist": "^1.2.0",
+    "typescript": "^3.7.3",
+    "ts-node": "^8.5.4"
+  }
+}
